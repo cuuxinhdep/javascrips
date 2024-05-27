@@ -1,10 +1,10 @@
 var inStock;
-var Shipping;
-instock = true;
-shiiping = false;
+var shipping;
+inStock = true;
+shipping = false;
 
-Var elStock = document.getElementById('Stock');
-elStock.className = instock	;
+var elStock = document.getElementById('stock');
+elStock.className = inStock	;
 
 var elShip = document.getElementById('shipping');
 elShip.className = shipping;
